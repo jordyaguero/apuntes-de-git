@@ -7,4 +7,4 @@
 
 hola jordy
 
-Hermano: jordy tirado torres
+Hermano: douglas tirado torres
