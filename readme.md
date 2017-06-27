@@ -6,3 +6,5 @@
 3. area de repositorio
 
 hola jordy
+
+Hermano: jordy tirado torres
