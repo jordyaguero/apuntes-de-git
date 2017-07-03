@@ -1,0 +1,48 @@
+commit e641b8c8a984b4201c3d67ec683253a0984a77dc
+Author: Jordy Tirado Torres <jordyunt@gmail.com>
+Date:   Tue Jun 27 12:16:42 2017 -0500
+
+    modificando el archivo readme.md
+
+commit e54124a2c11bb569e7255fd6cdc10ea55caa752d
+Author: Jordy Tirado Torres <jordyunt@gmail.com>
+Date:   Tue Jun 27 12:11:16 2017 -0500
+
+    eliminacion del archivo eliminar.md
+
+commit a6f80749c6fee439c77cf1f2a7ab1794b48671c3
+Author: Jordy Tirado Torres <jordyunt@gmail.com>
+Date:   Tue Jun 27 12:05:10 2017 -0500
+
+    add eliminar.md
+
+commit 6a0425967a997e637f08c0e6a5d81c8b6384e62c
+Author: Jordy Tirado Torres <jordyunt@gmail.com>
+Date:   Tue Jun 27 11:58:37 2017 -0500
+
+    creacion del archivo index.html
+
+commit 4e12a2c7602d3132978c6b7590e7525adf120bba
+Author: Jordy Tirado Torres <jordyunt@gmail.com>
+Date:   Tue Jun 27 11:49:32 2017 -0500
+
+    se agrego hermano
+    llamado jordy tirado torres
+
+commit f29c9e51811384a619a6af3f944b5cfc2a27645f
+Author: Jordy Tirado Torres <jordyunt@gmail.com>
+Date:   Mon Jun 26 12:05:00 2017 -0500
+
+    agregando .gitignore
+
+commit c37650987c42ab820962c9debf4f2bb0c04d281f
+Author: Jordy Tirado Torres <jordyunt@gmail.com>
+Date:   Mon Jun 26 11:39:19 2017 -0500
+
+    segundo commit
+
+commit 74831e239dae3f29816843fddc2c2d2a913fed84
+Author: Jordy Tirado Torres <jordyunt@gmail.com>
+Date:   Mon Jun 26 11:17:02 2017 -0500
+
+    primer commit
